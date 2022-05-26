@@ -1,0 +1,12 @@
+this is called fast forward merge
+this commits from the 
+child branch are 
+added to the top of 
+the master branch
+
+this is helpful when
+we want code from 
+a branch to be 
+refleccted as the
+latest workimg version on 
+master
